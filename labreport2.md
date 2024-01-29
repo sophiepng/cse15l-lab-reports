@@ -71,12 +71,12 @@ class ChatServer {
   and `output` changed to add the formatted string of the new user and message to display on the webserver.
 
 ## Part 2
-1. Absolute path to the *private* SSH key for logging into `ieng6`
-   ![Image](photos/SS3.png)
+1. Absolute path to the *private* SSH key for logging into `ieng6` <br />
+![Image](photos/SS3.png)
 3. Absolute path to the *public* SSH key for logging into `ieng6`
-   ![Image](photos/SS4.png)
-5. Terminal interaction logging into my `ieng6` account
-   ![Image](photos/SS5.png)
+![Image](photos/SS4.png)
+4. Terminal interaction logging into my `ieng6` account <br />
+![Image](photos/SS5.png)
 
 ## Part 3
 I didn't know how to connect to remote servers or that you could create an SSH key to log in without a password. It was really interesting to learn in the last two weeks how to run servers and webpages, since it seems like an important and fundamental skill to know for future projects.
