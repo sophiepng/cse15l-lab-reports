@@ -74,7 +74,7 @@ class ChatServer {
 1. Absolute path to the *private* SSH key for logging into `ieng6` <br />
 ![Image](photos/SS3.png)
 3. Absolute path to the *public* SSH key for logging into `ieng6`
-![Image](photos/SS4.png)
+![Image](photos.SS4.png)
 4. Terminal interaction logging into my `ieng6` account <br />
 ![Image](photos/SS5.png)
 
