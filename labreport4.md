@@ -17,8 +17,8 @@
 
 ## Edit the code file to fix the failing test
 ![Image](photos/LR4_4.png)
-* Keys Pressed: `vim ListExamples.java` `enter` </br>
-  `jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj` `lllllll` `x` `i` `2` `<esc>` </br>
+* Keys Pressed: `vim ListExamples.java` `enter` <br>
+  `jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj` `lllllll` `x` `i` `2` `<esc>` <br>
   `:wq <enter>`
 * To edit the code, I opened ListExamples.java in VIM, then used the `j` and `l` keys to navigate the cursor to the mistake to fix the code. I pressed `x` to delete the `1`, and
   replaced it by pressing `i` to enter insert mode, inserting `2`, and escaping from insert mode. Then I saved and exited the file in VIM through `:wq`.
@@ -31,9 +31,9 @@
 ## Commit and push the resulting change to your Github account
 ![Image](photos/LR4_6.png)
 ![Image](photos/LR4_7.png)
-* Keys Pressed: `git add Lis` `<tab>` `<enter>` </br>
-  `git commit <enter>` `i` `fix ListExamples.java` `<esc>` </br>
-  `:wq <enter>` </br>
+* Keys Pressed: `git add Lis` `<tab>` `<enter>` <br>
+  `git commit <enter>` `i` `fix ListExamples.java` `<esc>` <br>
+  `:wq <enter>` <br>
   `git push origin main` `<enter>`
 * I added and committed the changes made to ListExamples.java to git, (I used `<tab>` to autocomplete the name of ListExamples.java) and wrote the commit message by entering
   insert mode through `i` and typing the message and escaping, then saving the file through `:wq` and pushing the changes to main.
