@@ -35,8 +35,7 @@
   `git commit <enter>` `i` `fix ListExamples.java` `<esc>` <br>
   `:wq <enter>` <br>
   `git push origin main` `<enter>`
-* I added and committed the changes made to ListExamples.java to git, (I used `<tab>` to autocomplete the name of ListExamples.java) and wrote the commit message by entering
-  insert mode through `i` and typing the message and escaping, then saving the file through `:wq` and pushing the changes to main.
+* I added the changes with `git add` and used `<tab>` to autocomplete the name of ListExamples.java. Then I committed the changes made to ListExamples.java to git with `git commit` and wrote the commit message by entering insert mode through `i` and typing the message and escaping, then saving the file through `:wq`. Then I pushed the changes using the `git push` command to the `main` branch on the remote `origin` repo that the repository was cloned from.
 
 
 
